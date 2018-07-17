@@ -8,3 +8,8 @@
     max-width: 500px;
   }
 }
+
+.signin-form {
+  margin-top: 50px;
+  padding: 50px;
+}
